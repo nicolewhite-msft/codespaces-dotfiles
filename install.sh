@@ -1,0 +1,6 @@
+git config --global alias.s "status"
+git config --global alias.cm "checkout main"
+git config --global alias.ane "commit --amend --no-edit"
+git config --global alias.wip "commit -m 'wip' --no-verify"
+git config --global alias.back "checkout -"
+git config --global alias.cb "checkout -b"
